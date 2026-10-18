@@ -14,7 +14,7 @@
 
 * **Name:** Manav
 * **LeetCode:** https://leetcode.com/u/Manav2K7/
-* **Language:** Java *(Update if needed)*
+* **Language:** Java 
 * **Goal:** Master Data Structures & Algorithms for Software Engineering Interviews.
 
 ---
@@ -25,20 +25,18 @@
 
 | Topic                    | Status |
 | :----------------------- | :----: |
-| Arrays                   |    ⬜   |
-| Strings                  |    ⬜   |
-| Hashing                  |    ⬜   |
+| Arrays                   |    ✅   |
+| Hashing                  |    ✅   |
 | Sorting                  |    ⬜   |
-| Searching                |    ⬜   |
-| Binary Search            |    ⬜   |
-| Two Pointers             |    ⬜   |
-| Sliding Window           |    ⬜   |
-| Prefix Sum               |    ⬜   |
+| Searching                |    ✅   |
+| Two Pointers             |    ✅   |
+| Sliding Window           |    ✅   |
+| Prefix Sum               |    ✅   |
 | Linked List              |    ⬜   |
 | Stack                    |    ⬜   |
 | Queue                    |    ⬜   |
 | Deque                    |    ⬜   |
-| Recursion                |    ⬜   |
+| Recursion                |    ✅   |
 | Backtracking             |    ⬜   |
 | Trees                    |    ⬜   |
 | Binary Search Tree       |    ⬜   |
@@ -53,8 +51,8 @@
 | Segment Tree             |    ⬜   |
 | Fenwick Tree (BIT)       |    ⬜   |
 | Number Theory            |    ⬜   |
-| Mathematics              |    ⬜   |
-| Geometry                 |    ⬜   |
+| Mathematics              |    ✅   |
+| Geometry                 |    ✅   |
 
 ---
 
@@ -63,9 +61,10 @@
 ```text
 Progress
 
-□□□□□□□□□□ 0%
+■■■□□□□□□□ 32%
 
-Completed Topics : 0 / 30
+Completed Topics : 9 / 28
+
 ```
 
 ---
