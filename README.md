@@ -107,7 +107,7 @@ Completed Topics : 9 / 28
 ```text
 🔄 Currently Studying
 
-➡️ Arrays
+➡️ Stack and Queue
 ```
 
 ---
