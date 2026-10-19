@@ -47,7 +47,7 @@
 | Topological Sort         |    ⬜   |
 | Dynamic Programming      |    ⬜   |
 | Greedy Algorithms        |    ⬜   |
-| Bit Manipulation         |    ⬜   |
+| Bit Manipulation         |    ✅   |
 | Segment Tree             |    ⬜   |
 | Fenwick Tree (BIT)       |    ⬜   |
 | Number Theory            |    ⬜   |
