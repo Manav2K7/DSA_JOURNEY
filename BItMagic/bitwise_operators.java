@@ -1,7 +1,7 @@
 package BItMagic;
 
 public class bitwise_operators {
-    operators[] = {
+    operators = [
         new operators("AND", "&"),
         new operators("OR", "|"),
         new operators("XOR", "^"),
@@ -10,6 +10,6 @@ public class bitwise_operators {
         new operators("RIGHT SHIFT", ">>"),
         new operators("UNSIGNED RIGHT SHIFT", ">>>")
         
-    };
+    ];
     
 }
